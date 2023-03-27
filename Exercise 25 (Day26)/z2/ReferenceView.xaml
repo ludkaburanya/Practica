@@ -15,7 +15,7 @@
         <TextBlock
             HorizontalAlignment="Center"
             VerticalAlignment="Center"
-            ><Run Text="Справка. "/><Run Language="ru-ru" Text="Справка нужна для чего-то важного!"/></TextBlock>
+            ><Run Text="Справка. "/><Run Language="ru-ru" Text="Справка нужна для чего-то важного!!"/></TextBlock>
         <Button x:Name="buttonClose"
                 Click="buttonClose_Click"
                 Grid.Row="1"
