@@ -26,6 +26,7 @@ namespace z3
         }
 
 
+
         private void   Button_Click(object sender, RoutedEventArgs e)
         {
             Button bt = (Button)sender;
