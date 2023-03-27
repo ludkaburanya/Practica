@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace z1.Properties
+namespace z4.Properties
 {
 
 
