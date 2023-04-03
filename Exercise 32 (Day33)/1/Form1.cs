@@ -16,7 +16,7 @@ namespace _1
     public partial class Form1 : Form
     {
         string commandText = "SELECT Информация, [Код тура], Название, Цена FROM Туры";
-        string connectionString = @"D:\sql2\MSSQL16.MSSQLSERVER\MSSQL\DATA\Test1.mdf";
+        string connectionString = @"C:\sql2\MSSQL16.MSSQLSERVER\MSSQL\DATA\Test1.mdf";
         public Form1()
         {
             InitializeComponent();
